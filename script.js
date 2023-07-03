@@ -1,4 +1,4 @@
-your JS code here. If required.
+//your JS code here. If required.
 let button = document.getElementById('reset');
 let randomsequence=document.getElementById('random-sequence');
 let arrayOfImages = document.getElementsByClassName('images');
